@@ -5,6 +5,11 @@ body{
   width:100vw;
 }
 
+img{
+  width:50%;
+  height: auto;
+}
+
 h1{
   font-size: 36px;
   color: blue;
